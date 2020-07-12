@@ -25,5 +25,7 @@ Bem... meu Linkedin pode mostrar melhor meu histórico profissional [www.linkedi
 - 📫 Você pode entrar em contato comigo no meu email: guilhermealacoc@gmail.com
 
 - ⚡ Fun fact: Fã de Formula 1, de estudar Alemão e de projetos ecológicos. E apaixonado por The Office.
+
+
 ![Michael Scott (Steve Carrel) da série The Office, estende os polegares fazendo sinal de positivo)](https://media.giphy.com/media/55SfA4BxofRBe/giphy.gif)
 
