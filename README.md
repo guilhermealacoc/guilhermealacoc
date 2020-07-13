@@ -1,6 +1,6 @@
 ### Olá! Me chamo Guilherme de Alacoc 👋
 
-Sou um desenvolvedor web em formação morando em Sorocaba-SP, estudo principalmente PHP e Js, com frameworks como Laravel e Lumen para PHP e React para Js. Mas gosto de brincar com C# para desenvolvimento desktop também.
+Sou um desenvolvedor web em formação morando em Sorocaba-SP, estudo principalmente PHP e Js, com frameworks como Laravel e Lumen para PHP e React para Js. Porém gosto de C# para desenvolvimento desktop também.
 
 Estudo desenvolvimento mobile também! Com Flutter para desenvolvimento cross-platform e Kotlin para Android Nativo.
 
@@ -15,6 +15,7 @@ Estudo desenvolvimento mobile também! Com Flutter para desenvolvimento cross-pl
 
 ### Experiência
 Ainda não possuo experiência profissional como desenvolvedor, mas já muita em resolver problemas!!!(rsrs)
+
 Trabalhei como Consultor Comercial no Melhor Escola/Quero Educação, principalmente na captação de clientes e relacionamento com os mesmos, criação de estratégias para o fechamento de parcerias e levar o sucesso ao parceiro.
 
 Também trabalhei como atendente e auxiliar admistrativo na Alfa Tintas, organizando a logística e estoque.
