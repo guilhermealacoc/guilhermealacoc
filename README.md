@@ -3,7 +3,7 @@
 ```diff
 Hello, I am Guilherme.
 
-<span style="color:blue">**I'm a Web Developer and science enthusiast.**</span>
+I'm a Web Developer and science enthusiast.
 
 Living in Sorocaba, São Paulo - Brazil.
 
