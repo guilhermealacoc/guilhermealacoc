@@ -1,5 +1,4 @@
-<img align="right" height="150" src="https://media.giphy.com/media/3og0IPMDS8F3LOCbza/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif"/>
+<img align="right" height="300" length="300" src="https://media.giphy.com/media/3og0IPMDS8F3LOCbza/giphy.gif"/>
 
 ```diff
 Hello, I am Guilherme.
