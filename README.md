@@ -1,28 +1,19 @@
-### Olá! Me chamo Guilherme de Alacoc 👋
+<img align="right" height="150" src="https://media.giphy.com/media/3og0IPMDS8F3LOCbza/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif"/>
 
-Sou um desenvolvedor web em formação morando em Sorocaba-SP, estudo principalmente PHP e Js, com frameworks como Laravel para PHP e React para Js. Porém gosto de C# para desenvolvimento desktop também.
+```diff
+Hello, I am Guilherme.
 
-Estudo desenvolvimento mobile também! Com Flutter para desenvolvimento cross-platform e Kotlin para Android Nativo.
+<span style="color:blue">**I'm a Web Developer and science enthusiast.**</span>
 
-### Projetos de Interesse
-- Ensino
-- Design
-- Ecologia
+Living in Sorocaba, São Paulo - Brazil.
 
-### Onde estudei (ou estudo):
-- Fatec São Roque 2018 - 2020
-- Etec Fernando Prestes 2016 - 2017
+20 years old
 
-### Experiência
-Ainda não possuo experiência profissional como desenvolvedor, mas já muita em resolver problemas!!!(rsrs)
-
-Bem... meu Linkedin pode mostrar melhor meu histórico profissional [www.linkedin.com/in/guilherme-de-alacoc-aquino/](https://www.linkedin.com/in/guilherme-de-alacoc-aquino/)
-
-- 🤔 Qualquer ajuda, crítica ou dica nos projetos é bem vinda!
-- 📫 Você pode entrar em contato comigo no meu email: guilhermealacoc@gmail.com
-
-- ⚡ Fun fact: Fã de Formula 1, de estudar Alemão e de projetos ecológicos. E apaixonado por The Office.
-
-
-![Michael Scott (Steve Carrel) da série The Office, estende os polegares fazendo sinal de positivo)](https://media.giphy.com/media/55SfA4BxofRBe/giphy.gif)
-
+💻 PHP, Laravel, Js, ReactJs, Flutter.
+📓 Web Development, API's, Data Analisys, UI and Data visualization.
+👍 Ecology, Yoga, Calisthenic, Run and LOTR
+```
+<code> 
+  <a href="https://www.linkedin.com/in/guilherme-de-alacoc-aquino/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
+</code>
