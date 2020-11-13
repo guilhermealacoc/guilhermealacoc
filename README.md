@@ -9,9 +9,9 @@ Living in Sorocaba, São Paulo - Brazil.
 
 20 years old
 
-💻 PHP, Laravel, Js, ReactJs, Flutter.
+💻 PHP, Laravel, NodeJs, ReactJs, Flutter.
 📓 Web Development, API's, Data Analisys, UI and Data visualization.
-👍 Ecology, Yoga, Calisthenic, Run and LOTR
+👍 F1, Open Source and LOTR
 ```
 <code> 
   <a href="https://www.linkedin.com/in/guilherme-de-alacoc-aquino/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
