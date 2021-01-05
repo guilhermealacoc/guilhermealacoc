@@ -12,6 +12,9 @@ Living in Sorocaba, São Paulo - Brazil.
 💻 PHP, Laravel, NodeJs, ReactJs, Flutter.
 📓 Web Development, API's, Data Analisys, UI and Data visualization.
 👍 F1, Open Source and LOTR
+
+
+🧙 I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.
 ```
 <code> 
   <a href="https://www.linkedin.com/in/guilherme-de-alacoc-aquino/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
