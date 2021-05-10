@@ -1,17 +1,11 @@
-<img align="right" height="300" length="300" src="https://media.giphy.com/media/3og0IPMDS8F3LOCbza/giphy.gif"/>
-
 ```diff
 Hello, I am Guilherme.
 
-I'm a Web Developer and science enthusiast.
+I'm a developer who works with web technologies and automation.
 
-Living in Sorocaba, São Paulo - Brazil.
-
-20 years old
-
-💻 PHP, Laravel, NodeJs, ReactJs, Flutter.
-📓 Web Development, API's, Data Analisys, UI and Data visualization.
-👍 F1, Open Source and LOTR
+💻 Currently working mostly with PHP and Nodejs.
+📓 Functional Programming, algorithms and data structures, chatbot and RPA.
+👍 Literature, cinema, art and Corinthians. 
 
 
 🧙 I don't know half of you half as well as I should like; 
