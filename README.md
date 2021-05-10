@@ -13,6 +13,6 @@ I'm a developer who works with web technologies and automation.
 ```
 <code> 
   <a href="https://www.linkedin.com/in/guilherme-de-alacoc-aquino/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
-    
   <a href="https://letterboxd.com/alacoc/" target="_blank"><img height="30" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-neg-rgb.svg"></a>
+  <a href="https://dev.to/alacoc" target="_blank"><img height="30" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/devto/devto-ar21.svg"></a>
 </code>
