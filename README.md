@@ -4,7 +4,7 @@ Hello, I am Guilherme.
 I'm a developer who works with web technologies and automation.
 
 💻 Currently working mostly with PHP and Nodejs.
-📓 Functional Programming, algorithms and data structures, chatbot and RPA.
+📓 Functional Programming, algorithms and data structures, chatbot and automation in general.
 👍 Literature, cinema, art and Corinthians. 
 
 
