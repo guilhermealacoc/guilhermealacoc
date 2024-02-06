@@ -1,5 +1,5 @@
 # :octocat: About Me:
-Hey! I'm Guilherme! I'm a backend developer! <br>I'm currently working on Web Apps and APIs <br>Learning technologies for web and automation. <br>Interested in data analysis and computer vision/OCR
+Hey! I'm Guilherme! I'm a full stack developer! <br>I'm currently working on Web Apps and APIs <br>Learning technologies for web and automation. <br>Interested in data analysis and computer vision/OCR
 
 
 ## 🌐 Socials:
