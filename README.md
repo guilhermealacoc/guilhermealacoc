@@ -1,4 +1,4 @@
-:octocat: About Me:
+:octocat: About Me: <br> 
 Hey! 👋 I'm Guilherme!<br> I'm a full stack developer! <br>I'm currently working on Web Apps and APIs <br>Interested in software architecture and data analysis <br> <br>focused on studying new languages: 🇧🇷 🇬🇧 🇨🇳 🇩🇪 🇫🇷 🇯🇵 
 
 
