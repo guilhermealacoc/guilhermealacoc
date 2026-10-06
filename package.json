@@ -1,0 +1,13 @@
+{
+  "name": "guilhermealacoc-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-readme.mjs",
+    "check": "node scripts/check-data.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.8.1"
+  }
+}

@@ -1,0 +1,17 @@
+profile:
+  name: Guilherme Alacoc
+  handle: guilhermealacoc
+  title: Software Engineer
+  subtitle: Backend · Web · Mobile · Data · Product
+  tagline: I build products, APIs and practical software experiments.
+
+links:
+  github: https://github.com/guilhermealacoc
+  linkedin: "https://www.linkedin.com/in/guilherme-alacoc/"
+  website: "alacoc.com"
+
+settings:
+  show_private_projects: true
+  show_technology_counts: true
+  show_timeline: true
+  show_lessons: true

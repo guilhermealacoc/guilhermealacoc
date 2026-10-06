@@ -1,0 +1,25 @@
+projects:
+  - name: Fidelio
+    type: product
+    status: building
+    year: 2026
+    description: Personal book collection platform focused on cataloging, identification and automation.
+    problem: Personal libraries often lack structured information about editions, ISBNs and collection data.
+    solution: Centralize the collection and automate book identification through ISBN, barcode lookup and OCR-assisted flows.
+    stack:
+      - AdonisJS
+      - React
+      - PostgreSQL
+      - Docker
+    features:
+      - Book catalog management
+      - ISBN lookup
+      - Barcode-assisted identification
+      - OCR-assisted data capture
+      - Asynchronous enrichment flows
+    repository: ""
+    demo: ""
+    lessons: ""
+
+
+
