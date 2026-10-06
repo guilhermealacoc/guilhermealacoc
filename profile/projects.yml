@@ -21,5 +21,74 @@ projects:
     demo: ""
     lessons: ""
 
+  - name: Bananota
+    type: product
+    status: building
+    year: 2026
+    description: >
+      Indie hacker product focused on helping people discover, share and evaluate
+      supermarket offers while building a community-driven source of local price information.
+    problem: >
+      Supermarket prices, promotions and product availability are fragmented across
+      different stores, making it difficult for consumers to compare opportunities
+      and know whether an offer is actually worth it.
+    solution: >
+      Build a mobile-first platform where users can discover and publish supermarket
+      offers, interact with the community, maintain shopping lists and receive alerts
+      about relevant products and prices.
+    stack:
+      - Laravel
+      - PHP
+      - React
+      - TypeScript
+      - Vite
+      - Tailwind CSS
+      - SQLite
+      - PWA
+    features:
+      - Community-driven supermarket offer feed
+      - Product, brand and category catalog
+      - Supermarket chains and store locations
+      - Offer publishing with product and price information
+      - Likes, comments and community interactions
+      - Shopping lists
+      - Internal price and product alerts
+      - Usage metrics and product analytics
+      - Mobile-first Progressive Web App
+    repository: ""
+    demo: ""
+    lessons: ""
 
-
+  - name: Juntro
+    type: product
+    status: building
+    year: 2026
+    description: >
+      Indie hacker back-office project created to operate and manage products such
+      as Bananota through a lightweight administrative interface.
+    problem: >
+      Operating an independent product requires administrative tools for catalog
+      management, users, moderation and metrics without adding operational complexity
+      to the consumer-facing application.
+    solution: >
+      Build a simple administrative application that consumes the product API and
+      centralizes the operational workflows required to manage the Bananota MVP.
+    stack:
+      - Laravel
+      - PHP
+      - Vite
+      - Tailwind CSS
+      - SQLite
+    features:
+      - MVP metrics and operational monitoring
+      - User management
+      - Brand and category management
+      - Product catalog management
+      - Supermarket chain and store management
+      - Offer moderation
+      - Comment management
+      - Community activity management
+      - Integration with the Bananota API
+    repository: ""
+    demo: ""
+    lessons: ""
